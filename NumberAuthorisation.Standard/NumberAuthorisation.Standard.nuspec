@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>NumberAuthorisation.Standard</id>
+    <version>1.0.0</version>
+    <title>NumberAuthorisation.Standard</title>
+    <authors>APIMATIC SDK Generator</authors>
+    <iconUrl>https://nuget.org/Content/Images/packageDefaultIcon-50x50.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>The number authorisation API allows you to manage your blacklists. MessageMedia automatically adds numbers to your blacklist if people send one of the opt out keywords in response to one of your messages.
+
+This is a legal requirement. If you decide to handle the legal compliance yourself, calls to this endpoint will not affect your messages.
+
+![Isometric](http://i63.tinypic.com/2uqn0hl.jpg)</description>
+    <summary />
+    <releaseNotes />
+    <copyright>Copyright 2016</copyright>
+    <language>en-US</language>
+        <dependencies>
+        </dependencies>
+  </metadata>
+  <files>
+    <file src="bin\Release\NumberAuthorisation.Standard.dll" target="lib\NumberAuthorisation.Standard.dll" />
+  </files>
+</package>
